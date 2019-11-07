@@ -1,0 +1,14 @@
+Package: mytools
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Cheryl",
+           family = "Barnes",
+           role = c("aut", "cre"),
+           email = "cheryl.barnes@alaska.edu",
+           comment = c(ORCID = "0000-0002-2650-5299"))
+Description: This is a utility package for training purposes.
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
